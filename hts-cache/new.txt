@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:32:58	1818/1818	---M-Z	200	added ('OK')	text/html	etag:%2280f5d5d8dad4d91:206c63%22	http://georgian.za.net/robots.txt		(from )
+13:32:59	4094/4094	---M-Z	200	added ('OK')	text/html	etag:%2280f5d5d8dad4d91:206c63%22	http://georgian.za.net/	C:/My%20Web%20Sites/logo%20hack/georgian.za.net/index.html	(from )
+13:32:59	41507/41507	---M--	200	added ('OK')	image/jpeg	etag:%229dee9547a903c2550e2a6bb0d0be1bbc%22	https://i.pinimg.com/originals/f4/35/22/f43522bf3b4bbe2ed9927c250467bd3b.jpg	C:/My%20Web%20Sites/logo%20hack/i.pinimg.com/originals/f4/35/22/f43522bf3b4bbe2ed9927c250467bd3b.jpg	(from http://georgian.za.net/)
+13:33:00	43844/43844	---M--	200	added ('OK')	image/jpeg	etag:W/%2251d55f387489d87917b6146e7b5fa78a%22	https://ih0.redbubble.net/image.622876166.4056/flat,550x550,075,f.u2.jpg	C:/My%20Web%20Sites/logo%20hack/ih0.redbubble.net/image.622876166.4056/flat,550x550,075,f.u2.jpg	(from http://georgian.za.net/)
